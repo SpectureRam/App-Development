@@ -1,0 +1,2 @@
+On Day-4, 
+	Review was carried out for the login and signup page's UI and Project's UML diagram.
