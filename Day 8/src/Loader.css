@@ -1,0 +1,38 @@
+/* Loader.css */
+.loader-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .loader {
+    width: 200px;
+    height: 100px;
+    background-color: #ccc;
+    position: relative;
+    overflow: hidden;
+    animation: moveVehicle 2s linear infinite;
+  }
+  
+  .vehicle {
+    width: 50px;
+    height: 50px;
+    background-color: #0074D9;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    left: -25px;
+    transform: translateY(-50%);
+    animation: moveVehicle 2s linear infinite;
+  }
+  
+  @keyframes moveVehicle {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+  
