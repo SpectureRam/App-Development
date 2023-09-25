@@ -1,0 +1,2 @@
+On Day-10, 
+	Review was carried out for the footer, navbar , redux implementation and pages like FAQ, Privacy Policy etc.
