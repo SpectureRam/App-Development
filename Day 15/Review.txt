@@ -1,2 +1,0 @@
-On Day-15, 
-	Review was carried out for the spring security, JWT and crud operations for backend.
