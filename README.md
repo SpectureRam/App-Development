@@ -1,7 +1,7 @@
 # Household eCommerce Store <br>
 * Overview <br>
 **Welcome to the Household eCommerce Store**, a modern and scalable solution for buying and selling household products. This project combines the power of React.js for the frontend, Spring Boot for the backend, and Tailwind CSS for stylish and responsive design. Whether you're a user exploring new products or an administrator managing the store, this application provides a seamless and enjoyable experience. <br>
-* Features
+* Features <br>
 User Authentication: Secure user accounts with JWT-based authentication.
 Product Catalog: Browse and search a wide range of household products.
 Shopping Cart: Add products to your cart, manage quantities, and proceed to checkout.
@@ -11,11 +11,11 @@ Tech Stack
 `Frontend: React.js`
 `Backend: Spring Boot`
 `Styling: Tailwind CSS`
-Getting Started
+* Getting Started <br> 
 Follow these steps to set up the project locally:
-Clone the repository:
+* Clone the repository:
 bash
-git clone https://github.com/your-username/household-ecommerce.git
+git clone https://github.com/SpectureRam/App-Development.git
 
 Set up the frontend and backend as described in their respective directories.
 Install dependencies and run the application.
