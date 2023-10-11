@@ -1,5 +1,5 @@
 # Household eCommerce Store <br>
-Overview
+Overview <br>
 **Welcome to the Household eCommerce Store**, a modern and scalable solution for buying and selling household products. This project combines the power of React.js for the frontend, Spring Boot for the backend, and Tailwind CSS for stylish and responsive design. Whether you're a user exploring new products or an administrator managing the store, this application provides a seamless and enjoyable experience.
 Features
 User Authentication: Secure user accounts with JWT-based authentication.
