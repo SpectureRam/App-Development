@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Intellij Workspace.iml" filepath="$PROJECT_DIR$/.idea/Intellij Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECommerce/main.iml" filepath="$PROJECT_DIR$/ECommerce/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Microservices/main (1) (com.ecommerce.microservices).iml" filepath="$PROJECT_DIR$/Microservices/main (1) (com.ecommerce.microservices).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/main (1) (com.eureka).iml" filepath="$PROJECT_DIR$/Gateway/main (1) (com.eureka).iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/main (1) (com.naming).iml" filepath="$PROJECT_DIR$/EurekaServer/main (1) (com.naming).iml" />
+    </modules>
+  </component>
+</project>

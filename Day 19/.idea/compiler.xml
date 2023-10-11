@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="main" />
+        <module name="main (1) (com.naming)" />
+        <module name="main (1) (com.ecommerce.microservices)" />
+        <module name="main (1) (com.eureka)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="main" target="17" />
+      <module name="main (1) (com.ecommerce.microservices)" target="17" />
+      <module name="main (1) (com.eureka)" target="17" />
+      <module name="main (1) (com.naming)" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="main" options="-parameters" />
+      <module name="main (1) (com.ecommerce.microservices)" options="-parameters" />
+      <module name="main (1) (com.eureka)" options="-parameters" />
+      <module name="main (1) (com.naming)" options="-parameters" />
+    </option>
+  </component>
+</project>
